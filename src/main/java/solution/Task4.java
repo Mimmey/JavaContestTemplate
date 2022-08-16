@@ -1,4 +1,4 @@
-package Solution;
+package solution;
 
 public class Task4 {
     public static int solve() {

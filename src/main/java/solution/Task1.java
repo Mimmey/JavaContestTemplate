@@ -1,6 +1,6 @@
-package Solution;
+package solution;
 
-public class Task5 {
+public class Task1 {
     public static int solve() {
         return 0;
     }

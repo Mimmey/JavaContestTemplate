@@ -1,7 +1,10 @@
-import Solution.Task0;
+import solution.Task0;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
 
+/**
+ * Some tests for summing problem
+ */
 public class Task0Test {
     @Test
     public void check1() {

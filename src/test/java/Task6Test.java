@@ -1,12 +1,10 @@
-import Solution.Task6;
 import org.junit.Assert;
 import org.junit.jupiter.api.Test;
+import solution.Task6;
 
 public class Task6Test {
-//    @Test
-//    public void check1() {
-//        int a = 5;
-//        int b = 10;
-//        Assert.assertEquals(15, Task6.solve(5, 10));
-//    }
+    @Test
+    public void check1() {
+        Assert.assertEquals(0, Task6.solve());
+    }
 }

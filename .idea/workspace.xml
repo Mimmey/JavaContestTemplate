@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="917ff2ae-1d71-406d-97b0-63335aaa81e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ContestTemplate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Solution/Task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task0Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task1Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task2Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task3Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task4Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task5Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task6Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task7Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Task8Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +77,26 @@
       <screen x="67" y="0" width="1299" height="768" />
     </state>
     <state x="170" y="39" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.0.1299.768@67.0.1299.768" timestamp="1660579339381" />
+    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1660642251988">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state x="371" y="0" key="CommitChangelistDialog2/67.0.1299.768@67.0.1299.768" timestamp="1660642251988" />
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom" timestamp="1660579926756">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.bottom/67.0.1299.768@67.0.1299.768" timestamp="1660579926756" />
+    <state width="1255" height="192" key="GridCell.Tab.0.center" timestamp="1660579926756">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.center/67.0.1299.768@67.0.1299.768" timestamp="1660579926756" />
+    <state width="1255" height="192" key="GridCell.Tab.0.left" timestamp="1660579926756">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.left/67.0.1299.768@67.0.1299.768" timestamp="1660579926756" />
+    <state width="1255" height="192" key="GridCell.Tab.0.right" timestamp="1660579926756">
+      <screen x="67" y="0" width="1299" height="768" />
+    </state>
+    <state width="1255" height="192" key="GridCell.Tab.0.right/67.0.1299.768@67.0.1299.768" timestamp="1660579926756" />
     <state x="196" y="0" key="SettingsEditor" timestamp="1660579729759">
       <screen x="67" y="0" width="1299" height="768" />
     </state>
